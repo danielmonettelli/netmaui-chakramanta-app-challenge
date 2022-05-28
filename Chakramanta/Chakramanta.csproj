@@ -15,7 +15,7 @@
 		<ApplicationTitle>Chakramanta</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.chakramanta</ApplicationId>
+		<ApplicationId>com.danielmonettelli.chakramanta</ApplicationId>
 		<ApplicationIdGuid>5F9BAFAD-27FE-48C3-A37E-985C5C090275</ApplicationIdGuid>
 
 		<!-- Versions -->

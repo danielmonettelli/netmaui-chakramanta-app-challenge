@@ -2,7 +2,8 @@
 <ContentPage
     x:Class="Chakramanta.MainPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundColor="White">
 
     <ScrollView>
         <VerticalStackLayout
@@ -11,10 +12,14 @@
             VerticalOptions="Center">
 
             <Image
-                HeightRequest="200"
                 HorizontalOptions="Center"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                Source="dotnet_bot.png" />
+                Style="{StaticResource mc_colour_watermelon}" />
+
+            <Image
+                HorizontalOptions="Center"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Style="{StaticResource icon_checkbox}" />
 
             <Label
                 FontSize="32"

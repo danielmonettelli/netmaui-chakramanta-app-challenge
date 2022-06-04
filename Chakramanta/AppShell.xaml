@@ -6,9 +6,39 @@
     xmlns:local="clr-namespace:Chakramanta"
     Shell.FlyoutBehavior="Disabled">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <Shell.Resources>
+        <Style TargetType="TabBar">
+            <Setter Property="Shell.TabBarBackgroundColor" Value="White" />
+            <Setter Property="Shell.TabBarTitleColor" Value="#7BED8D" />
+            <Setter Property="Shell.TabBarUnselectedColor" Value="#748A9D" />
+        </Style>
+    </Shell.Resources>
+
+    <TabBar>
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icon_store"
+            Route="MainPage" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icon_recipes"
+            Route="MainPage" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icon_quick_shop"
+            Route="MainPage" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icon_cart"
+            Route="MainPage" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icon_settings"
+            Route="MainPage" />
+    </TabBar>
 
 </Shell>

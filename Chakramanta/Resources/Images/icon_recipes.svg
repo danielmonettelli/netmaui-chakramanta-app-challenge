@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.324" height="18.506" viewBox="0 0 23.324 18.506">
+  <g id="icon_recipes" transform="translate(0.5 0.5)">
+    <rect id="path" width="12.697" height="17.506" rx="0.872" transform="translate(4.813)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-2" data-name="path" d="M.872,0H2.415a0,0,0,0,1,0,0V11.987a0,0,0,0,1,0,0H.872A.872.872,0,0,1,0,11.115V.872A.872.872,0,0,1,.872,0Z" transform="translate(2.399 2.76)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-3" data-name="path" d="M.872,0H2.4a0,0,0,0,1,0,0V7.33a0,0,0,0,1,0,0H.872A.872.872,0,0,1,0,6.458V.872A.872.872,0,0,1,.872,0Z" transform="translate(0 5.088)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-4" data-name="path" d="M.872,0H2.415a0,0,0,0,1,0,0V11.987a0,0,0,0,1,0,0H.872A.872.872,0,0,1,0,11.115V.872A.872.872,0,0,1,.872,0Z" transform="translate(19.925 14.747) rotate(180)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-5" data-name="path" d="M.872,0H2.4a0,0,0,0,1,0,0V7.33a0,0,0,0,1,0,0H.872A.872.872,0,0,1,0,6.458V.872A.872.872,0,0,1,.872,0Z" transform="translate(22.324 12.418) rotate(180)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-6" data-name="path" d="M191.515,768.267l-2.266,1.191.433-2.523-1.833-1.787,2.533-.368,1.133-2.3,1.133,2.3,2.533.368-1.833,1.787.433,2.523Z" transform="translate(-180.353 -757.398)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

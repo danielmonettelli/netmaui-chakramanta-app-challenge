@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18">
+  <g id="icon_payment" transform="translate(0.5 0.5)">
+    <line id="line" x2="4" transform="translate(3.677 13)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <rect id="rectangle" width="22" height="17" rx="2.656" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line-2" data-name="line" x2="22" transform="translate(0 9)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line-3" data-name="line" x2="22" transform="translate(0 5)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

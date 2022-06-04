@@ -1,0 +1,7 @@
+<svg id="icon_voice" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="ellipse" cx="15" cy="15" r="15" fill="#7bed8d"/>
+  <path id="path" d="M522.883,665.077v2.071a4.967,4.967,0,0,1-4.968,4.967h0a4.968,4.968,0,0,1-4.968-4.967v-2.071" transform="translate(-502.947 -653.938)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <rect id="rectangle" width="4.457" height="8.481" rx="2.228" transform="translate(12.74 7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="line" y2="3.983" transform="translate(14.968 18.178)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="line-2" data-name="line" x1="5.395" transform="translate(12.271 22.161)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

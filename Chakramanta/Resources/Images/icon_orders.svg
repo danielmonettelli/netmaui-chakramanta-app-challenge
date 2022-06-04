@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 19 15">
+  <g id="icon_orders" transform="translate(0.5 0.5)">
+    <path id="rectangle" d="M0,0H11.265A1.735,1.735,0,0,1,13,1.735v1.53A1.735,1.735,0,0,1,11.265,5H0A0,0,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(5 0)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="rectangle-2" data-name="rectangle" d="M0,0H11.265A1.735,1.735,0,0,1,13,1.735v1.53A1.735,1.735,0,0,1,11.265,5H0A0,0,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(5 9)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path" d="M303.59,604.51h-3.37a1.6,1.6,0,0,1-1.63-1.578v-1.844a1.6,1.6,0,0,1,1.63-1.578h3.37Z" transform="translate(-298.59 -599.51)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-2" data-name="path" d="M303.59,604.51h-3.37a1.6,1.6,0,0,1-1.63-1.578v-1.844a1.6,1.6,0,0,1,1.63-1.578h3.37Z" transform="translate(-298.59 -590.51)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

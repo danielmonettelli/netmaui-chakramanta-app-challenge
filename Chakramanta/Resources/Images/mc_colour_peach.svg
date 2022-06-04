@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.146" height="46.905" viewBox="0 0 42.146 46.905">
+  <g id="svg_colour_peach" transform="translate(1 1)">
+    <ellipse id="ellipse" cx="13.859" cy="18.648" rx="13.859" ry="18.648" transform="translate(12.429 7.608)" fill="#ff9376" stroke="#ef7159" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path" d="M1302.3,80.4q.218.508.411,1.036a23.989,23.989,0,0,1,1.428,8.253c0,10.3-6.2,18.648-13.859,18.648s-13.859-8.349-13.859-18.648,6.2-18.649,13.859-18.649a11.022,11.022,0,0,1,6.216,1.977" transform="translate(-1276.422 -63.431)" fill="#ff9376" stroke="#ef7159" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-2" data-name="path" d="M1296.348,72.849a9.412,9.412,0,0,0-9.417-9.418" transform="translate(-1276.422 -63.431)" fill="none" stroke="#aad353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-3" data-name="path" d="M1305.765,63.431a9.412,9.412,0,0,1-9.417,9.418A9.412,9.412,0,0,1,1305.765,63.431Z" transform="translate(-1276.422 -63.431)" fill="#bfe563" stroke="#aad353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-4" data-name="path" d="M1287.2,76.8s-4.745,2.358-5.571,9.659" transform="translate(-1276.422 -63.431)" fill="none" stroke="#ef7159" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

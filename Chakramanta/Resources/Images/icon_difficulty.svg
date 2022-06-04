@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="17" viewBox="0 0 15 17">
+  <g id="icon_difficulty" transform="translate(0.5 0.5)">
+    <line id="line" y2="8" transform="translate(0 8)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line-2" data-name="line" y2="12" transform="translate(7 4)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line-3" data-name="line" y2="16" transform="translate(14)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

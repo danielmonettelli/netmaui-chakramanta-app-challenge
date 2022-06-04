@@ -1,0 +1,5 @@
+<svg id="icon_quick_shop_small" xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <circle id="ellipse" cx="14.5" cy="14.5" r="14.5" fill="#748a9d"/>
+  <line id="line" y2="12.197" transform="translate(14.409 8.311)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="line-2" data-name="line" x1="12.197" transform="translate(8.311 14.409)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

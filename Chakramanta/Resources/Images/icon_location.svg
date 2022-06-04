@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.748" height="29.748" viewBox="0 0 29.748 29.748">
+  <g id="icon_location" transform="translate(0.707 0.707)">
+    <path id="rectangle" d="M0,0H10.017A10.017,10.017,0,0,1,20.035,10.017v0A10.017,10.017,0,0,1,10.017,20.035h0A10.017,10.017,0,0,1,0,10.017V0A0,0,0,0,1,0,0Z" transform="translate(14.167 28.333) rotate(-135)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="ellipse" cx="4" cy="4" r="4" transform="translate(10.167 10.064)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.864" height="54.054" viewBox="0 0 44.864 54.054">
+  <g id="svg_colour_orange" transform="translate(2 1)">
+    <path id="path" d="M1003.875-19.016a8.95,8.95,0,0,0-8.955-8.955" transform="translate(-983.443 27.971)" fill="none" stroke="#aad353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-2" data-name="path" d="M1012.83-27.971a8.95,8.95,0,0,1-8.955,8.955A8.95,8.95,0,0,1,1012.83-27.971Z" transform="translate(-983.443 27.971)" fill="#bfe563" stroke="#aad353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="ellipse" transform="translate(0 10.19)" fill="#ffb15c" stroke="#f49d47" stroke-linejoin="round" stroke-width="2">
+      <circle cx="20.432" cy="20.432" r="20.432" stroke="none"/>
+      <circle cx="20.432" cy="20.432" r="21.432" fill="none"/>
+    </g>
+    <path id="path-3" data-name="path" d="M997.616-12.692a16.32,16.32,0,0,0-9.059,8.737" transform="translate(-983.443 27.971)" fill="none" stroke="#f49d47" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

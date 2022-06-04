@@ -1,0 +1,7 @@
+<svg id="icon_arrow_circle" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="ellipse" cx="15" cy="15" r="15" fill="#7bed8d"/>
+  <g id="icon-arrow-small" transform="translate(10 11)">
+    <path id="path" d="M1281.487,1163.709l4.157,4.157-4.157,4.157" transform="translate(-1275.794 -1163.709)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line" x1="9.326" transform="translate(0 4.155)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

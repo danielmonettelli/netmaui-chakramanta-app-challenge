@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.429" height="54.429" viewBox="0 0 54.429 54.429">
+  <g id="svg_colour_kiwi" transform="translate(1.414 1.415)">
+    <line id="line" x1="2.886" y1="2.886" transform="translate(40.318 11.282)" fill="#e6e6e6" stroke="#bc854a" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path" d="M1410.438-181.394a20.532,20.532,0,0,1,0,29.035,20.531,20.531,0,0,1-29.035,0Z" transform="translate(-1367.234 195.562)" fill="#d3a267" stroke="#bc854a" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse id="ellipse" cx="20.531" cy="15.956" rx="20.531" ry="15.956" transform="translate(0 29.035) rotate(-45)" fill="#bfe563" stroke="#bc854a" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-2" data-name="line" x2="0.753" y2="0.753" transform="translate(19.186 19.186)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-3" data-name="line" x2="0.753" y2="0.753" transform="translate(31.661 31.661)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-4" data-name="line" x1="0.968" y2="0.968" transform="translate(33.342 17.29)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-5" data-name="line" x1="0.968" y2="0.968" transform="translate(17.29 33.342)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-6" data-name="line" x1="0.153" y2="1.217" transform="translate(26.988 15.106)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-7" data-name="line" x1="0.153" y2="1.217" transform="translate(24.459 35.277)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-8" data-name="line" x1="1.217" y2="0.153" transform="translate(35.277 24.459)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-9" data-name="line" x1="1.217" y2="0.153" transform="translate(15.106 26.989)" fill="none" stroke="#8ba030" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-10" data-name="line" x1="2.886" y1="2.886" transform="translate(11.282 40.318)" fill="#e6e6e6" stroke="#bc854a" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

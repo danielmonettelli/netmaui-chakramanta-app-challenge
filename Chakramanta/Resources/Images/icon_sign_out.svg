@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.692" height="19.692" viewBox="0 0 19.692 19.692">
+  <g id="icon_sign_out" transform="translate(0.5 0.5)">
+    <circle id="ellipse" cx="9.346" cy="9.346" r="9.346" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line" x2="6.005" y2="6.005" transform="translate(6.344 6.344)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="line-2" data-name="line" x1="6.005" y2="6.005" transform="translate(6.344 6.344)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -39,13 +39,85 @@
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
-		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
 
 		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\Images\icon_account.svg" />
+	  <None Remove="Resources\Images\icon_add.svg" />
+	  <None Remove="Resources\Images\icon_add_cart.svg" />
+	  <None Remove="Resources\Images\icon_add_circle.svg" />
+	  <None Remove="Resources\Images\icon_arrow.svg" />
+	  <None Remove="Resources\Images\icon_arrow_circle.svg" />
+	  <None Remove="Resources\Images\icon_arrow_small.svg" />
+	  <None Remove="Resources\Images\icon_calendar.svg" />
+	  <None Remove="Resources\Images\icon_cart.svg" />
+	  <None Remove="Resources\Images\icon_chat.svg" />
+	  <None Remove="Resources\Images\icon_checkbox.svg" />
+	  <None Remove="Resources\Images\icon_chevron.svg" />
+	  <None Remove="Resources\Images\icon_clock.svg" />
+	  <None Remove="Resources\Images\icon_close.svg" />
+	  <None Remove="Resources\Images\icon_cook.svg" />
+	  <None Remove="Resources\Images\icon_delivery.svg" />
+	  <None Remove="Resources\Images\icon_difficulty.svg" />
+	  <None Remove="Resources\Images\icon_edit.svg" />
+	  <None Remove="Resources\Images\icon_fast_delivery.svg" />
+	  <None Remove="Resources\Images\icon_location.svg" />
+	  <None Remove="Resources\Images\icon_mail.svg" />
+	  <None Remove="Resources\Images\icon_minus.svg" />
+	  <None Remove="Resources\Images\icon_orders.svg" />
+	  <None Remove="Resources\Images\icon_padlock.svg" />
+	  <None Remove="Resources\Images\icon_payment.svg" />
+	  <None Remove="Resources\Images\icon_quick_shop.svg" />
+	  <None Remove="Resources\Images\icon_quick_shop_close_small.svg" />
+	  <None Remove="Resources\Images\icon_quick_shop_small.svg" />
+	  <None Remove="Resources\Images\icon_recipes.svg" />
+	  <None Remove="Resources\Images\icon_refresh.svg" />
+	  <None Remove="Resources\Images\icon_search.svg" />
+	  <None Remove="Resources\Images\icon_secure.svg" />
+	  <None Remove="Resources\Images\icon_select.svg" />
+	  <None Remove="Resources\Images\icon_settings.svg" />
+	  <None Remove="Resources\Images\icon_share.svg" />
+	  <None Remove="Resources\Images\icon_sign_out.svg" />
+	  <None Remove="Resources\Images\icon_store.svg" />
+	  <None Remove="Resources\Images\icon_summary.svg" />
+	  <None Remove="Resources\Images\icon_trash.svg" />
+	  <None Remove="Resources\Images\icon_voice.svg" />
+	  <None Remove="Resources\Images\mc_apple.svg" />
+	  <None Remove="Resources\Images\mc_avocado.svg" />
+	  <None Remove="Resources\Images\mc_banana.svg" />
+	  <None Remove="Resources\Images\mc_colour_apple.svg" />
+	  <None Remove="Resources\Images\mc_colour_avocado.svg" />
+	  <None Remove="Resources\Images\mc_colour_banana.svg" />
+	  <None Remove="Resources\Images\mc_colour_grapes.svg" />
+	  <None Remove="Resources\Images\mc_colour_kiwi.svg" />
+	  <None Remove="Resources\Images\mc_colour_lemon.svg" />
+	  <None Remove="Resources\Images\mc_colour_orange.svg" />
+	  <None Remove="Resources\Images\mc_colour_peach.svg" />
+	  <None Remove="Resources\Images\mc_colour_pear.svg" />
+	  <None Remove="Resources\Images\mc_colour_pineapple.svg" />
+	  <None Remove="Resources\Images\mc_colour_strawberry.svg" />
+	  <None Remove="Resources\Images\mc_colour_watermelon.svg" />
+	  <None Remove="Resources\Images\mc_grapes.svg" />
+	  <None Remove="Resources\Images\mc_kiwi.svg" />
+	  <None Remove="Resources\Images\mc_lemon.svg" />
+	  <None Remove="Resources\Images\mc_orange.svg" />
+	  <None Remove="Resources\Images\mc_peach.svg" />
+	  <None Remove="Resources\Images\mc_pear.svg" />
+	  <None Remove="Resources\Images\mc_pineapple.svg" />
+	  <None Remove="Resources\Images\mc_strawberry.svg" />
+	  <None Remove="Resources\Images\mc_watermelon.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Resources\Styles\Icons.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

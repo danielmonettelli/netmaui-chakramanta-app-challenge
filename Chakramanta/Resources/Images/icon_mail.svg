@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="16" viewBox="0 0 21 16">
+  <g id="icon_mail" transform="translate(0.5 0.5)">
+    <path id="path" d="M454,604v6.994A4.005,4.005,0,0,1,449.994,615H438.006A4.005,4.005,0,0,1,434,610.994V604" transform="translate(-434 -600)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="path-2" data-name="path" d="M439.175,600H452.1l-8.212,8.5L435.68,600Z" transform="translate(-434 -600)" fill="none" stroke="#748a9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

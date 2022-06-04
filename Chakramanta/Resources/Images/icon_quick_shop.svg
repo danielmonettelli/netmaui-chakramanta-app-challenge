@@ -1,5 +1,3 @@
-<svg id="icon_quick_shop" xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
-  <circle id="ellipse" cx="24.5" cy="24.5" r="24.5" fill="#748a9d"/>
-  <line id="line" y2="20.299" transform="translate(24.349 14.199)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-  <line id="line-2" data-name="line" x1="20.299" transform="translate(14.199 24.349)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <path id="icon_quick_shop" d="M24.5,49A24.5,24.5,0,0,1,7.176,7.176,24.5,24.5,0,0,1,41.824,41.824,24.34,24.34,0,0,1,24.5,49ZM15,23.5a.5.5,0,1,0,0,1h9V34a.5.5,0,0,0,1,0V24.5h9a.5.5,0,0,0,0-1H25V15a.5.5,0,1,0-1,0v8.5Z" fill="#748a9d"/>
 </svg>

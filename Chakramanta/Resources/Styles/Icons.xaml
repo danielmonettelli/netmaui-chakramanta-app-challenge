@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!--#region Icons-->
+    <Style x:Key="icon_account" TargetType="Image">
+        <Setter Property="Source" Value="icon_account.png" />
+        <Setter Property="WidthRequest" Value="18" />
+        <Setter Property="HeightRequest" Value="17" />
+    </Style>
+
+    <Style x:Key="icon_add" TargetType="Image">
+        <Setter Property="Source" Value="icon_add.png" />
+        <Setter Property="WidthRequest" Value="7" />
+        <Setter Property="HeightRequest" Value="7" />
+    </Style>
+
+
+    <Style x:Key="icon_add_cart" TargetType="Image">
+        <Setter Property="Source" Value="icon_add_cart.png" />
+        <Setter Property="WidthRequest" Value="28" />
+        <Setter Property="HeightRequest" Value="25" />
+    </Style>
+
+    <Style x:Key="icon_add_circle" TargetType="Image">
+        <Setter Property="Source" Value="icon_add_circle.png" />
+        <Setter Property="WidthRequest" Value="49" />
+        <Setter Property="HeightRequest" Value="49" />
+    </Style>
+
+    <Style x:Key="icon_arrow" TargetType="Image">
+        <Setter Property="Source" Value="icon_arrow.png" />
+        <Setter Property="WidthRequest" Value="16" />
+        <Setter Property="HeightRequest" Value="13" />
+    </Style>
+
+    <Style x:Key="icon_arrow_circle" TargetType="Image">
+        <Setter Property="Source" Value="icon_arrow_circle.png" />
+        <Setter Property="WidthRequest" Value="30" />
+        <Setter Property="HeightRequest" Value="30" />
+    </Style>
+
+    <Style x:Key="icon_arrow_small" TargetType="Image">
+        <Setter Property="Source" Value="icon_arrow_small.png" />
+        <Setter Property="WidthRequest" Value="9" />
+        <Setter Property="HeightRequest" Value="8" />
+    </Style>
+
+    <Style x:Key="icon_calendar" TargetType="Image">
+        <Setter Property="Source" Value="icon_calendar.png" />
+        <Setter Property="WidthRequest" Value="18" />
+        <Setter Property="HeightRequest" Value="19" />
+    </Style>
+
+    <Style x:Key="icon_cart" TargetType="Image">
+        <Setter Property="Source" Value="icon_cart.png" />
+        <Setter Property="WidthRequest" Value="24" />
+        <Setter Property="HeightRequest" Value="25" />
+    </Style>
+
+    <Style x:Key="icon_chat" TargetType="Image">
+        <Setter Property="Source" Value="icon_chat.png" />
+        <Setter Property="WidthRequest" Value="18" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_checkbox" TargetType="Image">
+        <Setter Property="Source" Value="icon_checkbox.png" />
+        <Setter Property="WidthRequest" Value="24" />
+        <Setter Property="HeightRequest" Value="24" />
+    </Style>
+
+    <Style x:Key="icon_chevron" TargetType="Image">
+        <Setter Property="Source" Value="icon_chevron.png" />
+        <Setter Property="WidthRequest" Value="8" />
+        <Setter Property="HeightRequest" Value="4" />
+    </Style>
+
+    <Style x:Key="icon_clock" TargetType="Image">
+        <Setter Property="Source" Value="icon_clock.png" />
+        <Setter Property="WidthRequest" Value="15" />
+        <Setter Property="HeightRequest" Value="15" />
+    </Style>
+
+    <Style x:Key="icon_close" TargetType="Image">
+        <Setter Property="Source" Value="icon_close.png" />
+        <Setter Property="WidthRequest" Value="14" />
+        <Setter Property="HeightRequest" Value="14" />
+    </Style>
+
+    <Style x:Key="icon_cook" TargetType="Image">
+        <Setter Property="Source" Value="icon_cook.png" />
+        <Setter Property="WidthRequest" Value="13" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_delivery" TargetType="Image">
+        <Setter Property="Source" Value="icon_delivery.png" />
+        <Setter Property="WidthRequest" Value="13" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_difficulty" TargetType="Image">
+        <Setter Property="Source" Value="icon_difficulty.png" />
+        <Setter Property="WidthRequest" Value="14" />
+        <Setter Property="HeightRequest" Value="16" />
+    </Style>
+
+    <Style x:Key="icon_edit" TargetType="Image">
+        <Setter Property="Source" Value="icon_edit.png" />
+        <Setter Property="WidthRequest" Value="20" />
+        <Setter Property="HeightRequest" Value="20" />
+    </Style>
+
+    <Style x:Key="icon_fast_delivery" TargetType="Image">
+        <Setter Property="Source" Value="icon_fast_delivery.png" />
+        <Setter Property="WidthRequest" Value="40" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_location" TargetType="Image">
+        <Setter Property="Source" Value="icon_location.png" />
+        <Setter Property="WidthRequest" Value="28" />
+        <Setter Property="HeightRequest" Value="28" />
+    </Style>
+
+    <Style x:Key="icon_mail" TargetType="Image">
+        <Setter Property="Source" Value="icon_mail.png" />
+        <Setter Property="WidthRequest" Value="20" />
+        <Setter Property="HeightRequest" Value="15" />
+    </Style>
+
+    <Style x:Key="icon_minus" TargetType="Image">
+        <Setter Property="Source" Value="icon_minus.png" />
+        <Setter Property="WidthRequest" Value="7" />
+        <Setter Property="HeightRequest" Value="7" />
+    </Style>
+
+    <Style x:Key="icon_orders" TargetType="Image">
+        <Setter Property="Source" Value="icon_orders.png" />
+        <Setter Property="WidthRequest" Value="18" />
+        <Setter Property="HeightRequest" Value="14" />
+    </Style>
+
+    <Style x:Key="icon_padlock" TargetType="Image">
+        <Setter Property="Source" Value="icon_padlock.png" />
+        <Setter Property="WidthRequest" Value="20" />
+        <Setter Property="HeightRequest" Value="22" />
+    </Style>
+
+    <Style x:Key="icon_payment" TargetType="Image">
+        <Setter Property="Source" Value="icon_payment.png" />
+        <Setter Property="WidthRequest" Value="22" />
+        <Setter Property="HeightRequest" Value="17" />
+    </Style>
+
+    <Style x:Key="icon_quick_shop" TargetType="Image">
+        <Setter Property="Source" Value="icon_quick_shop.png" />
+        <Setter Property="WidthRequest" Value="49" />
+        <Setter Property="HeightRequest" Value="49" />
+    </Style>
+
+    <Style x:Key="icon_quick_shop_close_small" TargetType="Image">
+        <Setter Property="Source" Value="icon_quick_shop_close_small.png" />
+        <Setter Property="WidthRequest" Value="29" />
+        <Setter Property="HeightRequest" Value="29" />
+    </Style>
+
+    <Style x:Key="icon_quick_shop_small" TargetType="Image">
+        <Setter Property="Source" Value="icon_quick_shop_small.png" />
+        <Setter Property="WidthRequest" Value="29" />
+        <Setter Property="HeightRequest" Value="29" />
+    </Style>
+
+    <Style x:Key="icon_recipes" TargetType="Image">
+        <Setter Property="Source" Value="icon_recipes.png" />
+        <Setter Property="WidthRequest" Value="22" />
+        <Setter Property="HeightRequest" Value="17" />
+    </Style>
+
+    <Style x:Key="icon_refresh" TargetType="Image">
+        <Setter Property="Source" Value="icon_refresh.png" />
+        <Setter Property="WidthRequest" Value="16" />
+        <Setter Property="HeightRequest" Value="22" />
+    </Style>
+
+    <Style x:Key="icon_search" TargetType="Image">
+        <Setter Property="Source" Value="icon_search.png" />
+        <Setter Property="WidthRequest" Value="17" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_secure" TargetType="Image">
+        <Setter Property="Source" Value="icon_secure.png" />
+        <Setter Property="WidthRequest" Value="19" />
+        <Setter Property="HeightRequest" Value="22" />
+    </Style>
+
+    <Style x:Key="icon_select" TargetType="Image">
+        <Setter Property="Source" Value="icon_select.png" />
+        <Setter Property="WidthRequest" Value="16" />
+        <Setter Property="HeightRequest" Value="11" />
+    </Style>
+
+    <Style x:Key="icon_settings" TargetType="Image">
+        <Setter Property="Source" Value="icon_settings.png" />
+        <Setter Property="WidthRequest" Value="21" />
+        <Setter Property="HeightRequest" Value="21" />
+    </Style>
+
+    <Style x:Key="icon_share" TargetType="Image">
+        <Setter Property="Source" Value="icon_share.png" />
+        <Setter Property="WidthRequest" Value="16" />
+        <Setter Property="HeightRequest" Value="21" />
+    </Style>
+
+    <Style x:Key="icon_sign_out" TargetType="Image">
+        <Setter Property="Source" Value="icon_sign_out.png" />
+        <Setter Property="WidthRequest" Value="18" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_store" TargetType="Image">
+        <Setter Property="Source" Value="icon_store.png" />
+        <Setter Property="WidthRequest" Value="20" />
+        <Setter Property="HeightRequest" Value="18" />
+    </Style>
+
+    <Style x:Key="icon_summary" TargetType="Image">
+        <Setter Property="Source" Value="icon_summary.png" />
+        <Setter Property="WidthRequest" Value="22" />
+        <Setter Property="HeightRequest" Value="17" />
+    </Style>
+
+    <Style x:Key="icon_trash" TargetType="Image">
+        <Setter Property="Source" Value="icon_trash.png" />
+        <Setter Property="WidthRequest" Value="19" />
+        <Setter Property="HeightRequest" Value="23" />
+    </Style>
+
+    <Style x:Key="icon_voice" TargetType="Image">
+        <Setter Property="Source" Value="icon_voice.png" />
+        <Setter Property="WidthRequest" Value="30" />
+        <Setter Property="HeightRequest" Value="30" />
+    </Style>
+    <!--#endregion-->
+
+    <!--#region Multicolored SVG-->
+    <Style x:Key="mc_apple" TargetType="Image">
+        <Setter Property="Source" Value="mc_apple.png" />
+        <Setter Property="WidthRequest" Value="41" />
+        <Setter Property="HeightRequest" Value="46" />
+    </Style>
+
+    <Style x:Key="mc_avocado" TargetType="Image">
+        <Setter Property="Source" Value="mc_avocado.png" />
+        <Setter Property="WidthRequest" Value="44" />
+        <Setter Property="HeightRequest" Value="44" />
+    </Style>
+
+    <Style x:Key="mc_banana" TargetType="Image">
+        <Setter Property="Source" Value="mc_banana.png" />
+        <Setter Property="WidthRequest" Value="47" />
+        <Setter Property="HeightRequest" Value="47" />
+    </Style>
+
+    <Style x:Key="mc_colour_apple" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_apple.png" />
+        <Setter Property="WidthRequest" Value="41" />
+        <Setter Property="HeightRequest" Value="46" />
+    </Style>
+
+    <Style x:Key="mc_colour_avocado" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_avocado.png" />
+        <Setter Property="WidthRequest" Value="44" />
+        <Setter Property="HeightRequest" Value="44" />
+    </Style>
+
+    <Style x:Key="mc_colour_banana" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_banana.png" />
+        <Setter Property="WidthRequest" Value="47" />
+        <Setter Property="HeightRequest" Value="47" />
+    </Style>
+
+    <Style x:Key="mc_colour_grapes" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_grapes.png" />
+        <Setter Property="WidthRequest" Value="36" />
+        <Setter Property="HeightRequest" Value="42" />
+    </Style>
+
+    <Style x:Key="mc_colour_kiwi" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_kiwi.png" />
+        <Setter Property="WidthRequest" Value="51" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_colour_lemon" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_lemon.png" />
+        <Setter Property="WidthRequest" Value="36" />
+        <Setter Property="HeightRequest" Value="36" />
+    </Style>
+
+    <Style x:Key="mc_colour_orange" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_orange.png" />
+        <Setter Property="WidthRequest" Value="40" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_colour_peach" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_peach.png" />
+        <Setter Property="WidthRequest" Value="40" />
+        <Setter Property="HeightRequest" Value="44" />
+    </Style>
+
+    <Style x:Key="mc_colour_pear" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_pear.png" />
+        <Setter Property="WidthRequest" Value="61" />
+        <Setter Property="HeightRequest" Value="61" />
+    </Style>
+
+    <Style x:Key="mc_colour_pineapple" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_pineapple.png" />
+        <Setter Property="WidthRequest" Value="67" />
+        <Setter Property="HeightRequest" Value="67" />
+    </Style>
+
+    <Style x:Key="mc_colour_strawberry" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_strawberry.png" />
+        <Setter Property="WidthRequest" Value="51" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_colour_watermelon" TargetType="Image">
+        <Setter Property="Source" Value="mc_colour_watermelon.png" />
+        <Setter Property="WidthRequest" Value="47" />
+        <Setter Property="HeightRequest" Value="47" />
+    </Style>
+
+    <Style x:Key="mc_grapes" TargetType="Image">
+        <Setter Property="Source" Value="mc_grapes.png" />
+        <Setter Property="WidthRequest" Value="36" />
+        <Setter Property="HeightRequest" Value="42" />
+    </Style>
+
+    <Style x:Key="mc_kiwi" TargetType="Image">
+        <Setter Property="Source" Value="mc_kiwi.png" />
+        <Setter Property="WidthRequest" Value="51" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_lemon" TargetType="Image">
+        <Setter Property="Source" Value="mc_lemon.png" />
+        <Setter Property="WidthRequest" Value="36" />
+        <Setter Property="HeightRequest" Value="36" />
+    </Style>
+
+    <Style x:Key="mc_orange" TargetType="Image">
+        <Setter Property="Source" Value="mc_orange.png" />
+        <Setter Property="WidthRequest" Value="40" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_peach" TargetType="Image">
+        <Setter Property="Source" Value="mc_peach.png" />
+        <Setter Property="WidthRequest" Value="40" />
+        <Setter Property="HeightRequest" Value="44" />
+    </Style>
+
+    <Style x:Key="mc_pear" TargetType="Image">
+        <Setter Property="Source" Value="mc_pear.png" />
+        <Setter Property="WidthRequest" Value="61" />
+        <Setter Property="HeightRequest" Value="61" />
+    </Style>
+
+    <Style x:Key="mc_pineapple" TargetType="Image">
+        <Setter Property="Source" Value="mc_pineapple.png" />
+        <Setter Property="WidthRequest" Value="67" />
+        <Setter Property="HeightRequest" Value="67" />
+    </Style>
+
+    <Style x:Key="mc_strawberry" TargetType="Image">
+        <Setter Property="Source" Value="mc_strawberry.png" />
+        <Setter Property="WidthRequest" Value="51" />
+        <Setter Property="HeightRequest" Value="51" />
+    </Style>
+
+    <Style x:Key="mc_watermelon" TargetType="Image">
+        <Setter Property="Source" Value="mc_watermelon.png" />
+        <Setter Property="WidthRequest" Value="47" />
+        <Setter Property="HeightRequest" Value="47" />
+    </Style>
+    <!--#endregion-->
+
+</ResourceDictionary>
